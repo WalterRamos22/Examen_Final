@@ -1,0 +1,6 @@
+CREATE TABLE animales (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(50),
+    fecha_nacimiento DATE,
+    especie VARCHAR(50)
+);
